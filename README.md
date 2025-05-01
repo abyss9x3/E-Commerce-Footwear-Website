@@ -1,4 +1,4 @@
-# Online E-Commerce Footwear Website (NodeJs + MySQL DBMS Project)
+# E-Commerce Footwear Website
 
 This project is a full-stack e-commerce platform for footwear, built with Node.js, Express, MySQL, and a React + Material UI frontend. It showcases a practical DBMS implementation for managing users, products, and orders.
 
